@@ -85,14 +85,5 @@ C and C++ (if building C/C++ library that contains core logic of my app and no-A
     NSLog(@"myUnsignedNSInteger: %lu", myUnsignedNSInteger); // "%lu" - long unsigned
 }
 
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
-}
-*/
 
 @end
